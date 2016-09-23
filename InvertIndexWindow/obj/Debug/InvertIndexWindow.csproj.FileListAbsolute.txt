@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\bin\Debug\InvertIndexWindow.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\bin\Debug\InvertIndexWindow.exe
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\bin\Debug\InvertIndexWindow.pdb
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\obj\Debug\InvertIndexWindow.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\obj\Debug\InvertIndexWindow.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\obj\Debug\InvertIndexWindow.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\obj\Debug\InvertIndexWindow.exe
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\obj\Debug\InvertIndexWindow.pdb
+c:\users\alex\documents\visual studio 2015\Projects\InvertIndexWindow\InvertIndexWindow\obj\Debug\InvertIndexWindow.Form1.resources
